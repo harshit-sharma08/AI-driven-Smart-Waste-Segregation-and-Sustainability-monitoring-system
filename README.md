@@ -1,5 +1,7 @@
 AI-Driven Smart Waste Segregation & Sustainability Monitoring System
 Intelligent Urban Waste Classification and Sustainability Intelligence Platform Using AI and IoT
+
+
 📌 Project Overview
 
 This project presents an AI-powered smart waste segregation system designed to classify waste materials into four categories:
@@ -117,5 +119,9 @@ Active learning for model improvement
 👨‍💻 Team Members
 
 Akshay Kumar
+
+
 Harshit Sharma
+
+
 Rachit Saxena
