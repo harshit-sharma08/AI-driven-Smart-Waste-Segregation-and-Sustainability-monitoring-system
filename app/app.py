@@ -23,7 +23,7 @@ def predict():
     predicted = class_names[predicted_index]
     confidence = np.max(preds)*100
     return jsonify({"prediction":predicted,
-                    "confidence":confidence})
+                    "confidence":round(confidence,2)})
 if __name__ == "__main__":
     app.run(debug = True)
 
