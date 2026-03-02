@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c29ec8fe-7cca-43eb-bfce-b9a8247e3d2b" name="Changes" comment="added the folder structure">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="c29ec8fe-7cca-43eb-bfce-b9a8247e3d2b" name="Changes" comment="Added the readme file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772420906162</updated>
       <workItem from="1772420907435" duration="2935000" />
-      <workItem from="1772424127700" duration="376000" />
+      <workItem from="1772424127700" duration="979000" />
     </task>
     <task id="LOCAL-00001" summary="added the required folder structure">
       <option name="closed" value="true" />
@@ -139,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772423963365</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added the readme file">
+      <option name="closed" value="true" />
+      <created>1772424521633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772424521633</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added the required folder structure" />
     <MESSAGE value="added the folder structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the folder structure" />
+    <MESSAGE value="Added the readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the readme file" />
   </component>
 </project>

@@ -52,8 +52,6 @@ Confusion Matrix
 
 Precision / Recall / F1-Score
 
-The model demonstrates strong generalization with minor confusion between visually similar classes such as glossy paper and plastic.
-
 📁 Project Structure
 AI-Smart-Waste-Segregation/
 
